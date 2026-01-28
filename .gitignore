@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+
+static/uploads/
+static/results/
+
+yolov8*.pt
+horse_report.xlsx
+
